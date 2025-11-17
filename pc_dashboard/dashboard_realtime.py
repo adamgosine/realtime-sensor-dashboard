@@ -12,7 +12,7 @@ app = QtWidgets.QApplication([])
 # --------------------------
 # CONFIG
 # --------------------------
-ESP32_IP = "192.168.1.129"
+ESP32_IP = "YOUR_ESP32_IP_HERE"   # e.g., 192.168.x.x
 PORT = 8080
 
 BUFFER = ""
