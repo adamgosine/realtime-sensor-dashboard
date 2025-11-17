@@ -83,7 +83,7 @@ realtime-sensor-dashboard/
 # ESP32 Firmware (Included)
 
 Full firmware is located here:  
-**[esp32_realtime.ino](esp32/esp32_realtime.ino)**  
+**[esp32_realtime.ino](https://github.com/adamgosine/realtime-sensor-dashboard/blob/main/esp32_realtime.ino)** 
 
 It contains:
 - WiFi connection  
