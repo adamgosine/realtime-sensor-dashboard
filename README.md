@@ -57,7 +57,7 @@ A short example of the system running in real time:
 | Servo VCC | 5V | External supply recommended if load applied |
 | Servo GND | GND | Must share ground with ESP32 |
 
-The servo *may make noise even with no load attached* — that's normal for SG90s due to idle PWM jitter.
+The servo *may make noise even with no load attached* due to idle PWM jitter.
 
 ---
 
