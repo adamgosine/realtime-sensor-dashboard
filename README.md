@@ -2,13 +2,6 @@
 
 A real-time control system demonstrating embedded sensor acquisition, WiFi TCP streaming, and high-frequency desktop visualization. The ESP32 collects sensor readings (LDR + Joystick), computes an error signal, drives a servo, and streams telemetry to a Python dashboard built with PyQtGraph.
 
-
----
-
-## Demo Video:
-**[View on Google Drive](https://drive.google.com/file/d/1TFWmAxIXGmdi_KzkTizWDqopPBfHcbkX/view?usp=sharing)**
-
-
 ---
 
 # System Overview
