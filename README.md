@@ -48,8 +48,6 @@ A real-time control system demonstrating embedded sensor acquisition, WiFi TCP s
 | Servo VCC | 5V | External supply recommended if load applied |
 | Servo GND | GND | Must share ground with ESP32 |
 
-The servo *may make noise even with no load attached* due to idle PWM jitter.
-
 ---
 
 # Repository Structure
@@ -62,9 +60,6 @@ realtime-sensor-dashboard/
 ├── pc_dashboard/
 │   ├── dashboard_realtime.py
 │   └── requirements.txt
-│
-├── media/
-│   └── demo_video.mp4
 │
 └── README.md
 ```
@@ -81,7 +76,7 @@ It contains:
 - ADC sampling  
 - Servo mapping  
 - JSON streaming  
-- 200+ Hz loop timing  
+- 200 Hz loop timing  
 
 ---
 
